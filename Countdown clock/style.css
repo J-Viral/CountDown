@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    height: 70px;
+    width: 200px;
+    background-color: blueviolet;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
+    margin: 0;
+
+}
